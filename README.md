@@ -14,6 +14,7 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 3. To take the attendance run ```python attendance_taker.py``` .
 4. Check the Database by ```python app.py```.
 
-
+## Output Sample
+![Alt text](<Screenshot 2023-11-28 152823.png>) ![Alt text](<Screenshot 2023-11-28 152748.png>) ![Alt text](<Screenshot 2023-11-28 152558.png>)
 
 
